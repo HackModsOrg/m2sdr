@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rtl2832u")(type "KiCad")(uri "${KIPRJMOD}/rtl2832u.kicad_sym")(options "")(descr ""))
+)
